@@ -1,0 +1,22 @@
+.as{
+    background-color: #AAB7B8;
+    display: flex;
+    justify-content: space-around;
+}
+
+.asd h1{
+    border-bottom: 3px solid #fff;
+}
+.asd{
+    display: flex;
+    font-weight: bold;
+}
+.tres h2{
+    padding-right: 2rem;
+    padding-left: 2rem;
+    border-bottom: 1px solid #fff;
+}
+.tres{
+    display: flex;
+    justify-content: flex-end;
+}
